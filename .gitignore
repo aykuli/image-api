@@ -5,4 +5,5 @@ Thumbs.db
 
 *.code-workspace
 .vscode
+package-lock.json
 
